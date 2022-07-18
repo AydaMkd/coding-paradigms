@@ -25,5 +25,5 @@ class SebulbasPod(Podracer):
 #1- no it does not it returns the same data in the array
 #2- yes it returns the same result when the same argument is passed
 #3- yes because it takes a function as an argument
-#4- I would choose this solution since because it provides the benefits of oop which makes my code resuable and clearer to understand. 
+#4- I would choose this solution since it provides the benefits of oop which makes my code resuable and clearer to understand. 
 #5 the flexibility and modularity makes it solving this problem more methodic and easier to troubleshoot issues.
